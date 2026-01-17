@@ -37,8 +37,5 @@ Created an interactive Excel dashboard to visualize:
 - Discovered peak sales months and sales channels
 - Provided insights to improve sales strategy and inventory planning
 
-## Project Files
-– Excel file containing dataset, analysis, and dashboard
-
 ## Author
 Vaibhav Kale
